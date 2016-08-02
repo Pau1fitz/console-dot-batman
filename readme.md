@@ -20,7 +20,7 @@ Wow, what a drag that was! No wonder you've become disenchanted with web develop
 **NOW!** Here's what your life could be after `console.batman`
 
 ```javascript
-// Here is happy you, logging some logs
+// Here is batman, logging some logs
 console.batman("Holy Hookwink Batman!");
 ```
 

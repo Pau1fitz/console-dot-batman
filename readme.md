@@ -1,6 +1,6 @@
-###console.frog
+###console.batman
 
-`console.frog` is an easy way to spice up your development life. Its really that simple! Runs on vanilla javascript, in most modern browsers (the kind that has developer tools!). You can see it live [here](http://tholman.com/console-dot-frog).
+`console.batman` is an easy way to spice up your development life. Its really that simple! Runs on vanilla javascript, in most modern browsers (the kind that has developer tools!). You can see it live [here](https://pau1fitz.github.io/console-dot-batman/).
 
 ### Preview
 
@@ -21,22 +21,39 @@ Wow, what a drag that was! No wonder you've become disenchanted with web develop
 
 ```javascript
 // Here is happy you, logging some logs
-console.frog("Amazing!");
+console.batman("Holy Hookwink Batman!");
 ```
 
 ```
 // And here is your output.
-          _,-.     ------------
-  ,-. ,--'  o ) -(   Amazing!   )
-  \(,' '  ,,-'     ------------
- ,-.\-.__,\\_
- \(`--'    `\ 
+            .  .
+             |\_|\
+             | a_a\
+             | | "]
+         ____| '-\___
+        /.----.___.-'\
+       //        _    \
+      //   .-. (~v~) /|
+     |'|  /\:  .--  / \
+    // |-/  \_/____/\/~|
+   |/  \ |  []_|_|_] \ |
+   | \  | \ |___   _\ ]_}
+   | |  '-' /   '.'  |
+   | |     /    /|:  |
+   | |     |   / |:  /\
+   | |     /  /  |  /  \
+   | |    |  /  /  |    \
+   \ |    |/\/  |/|/\    \
+    \|\ |\|  |  | / /\/\__\
+     \ \| | /   | |__
+          / |   |____)
+          |_/ 
 ```
 
-Wow. That feels good!
+Wow. That feels good! Also included in some jazzy batman music! Turn up those speakers!
 
 ###Usage
-Simply include the `console.frog.js` file into your app!
+Simply include the `console.batman.js` file into your app!
 
 ###License
 Copyright (c) 2016 Tim Holman - http://tholman.com

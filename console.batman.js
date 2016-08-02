@@ -20,6 +20,7 @@
     var x,
      css = "color:blue"
     
+    // Taken from here - http://chris.com/ascii/index.php
     var batman = [
       "%c            |\_|\     %c",
       "%c            | a_a\    %c",
